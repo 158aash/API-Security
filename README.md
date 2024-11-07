@@ -88,7 +88,7 @@ API security is critical in 2024 due to the growing complexity and scale of API 
       
     
     ```Shell
-    #sudo curl -o docker-compose.yml <https://raw.githubusercontent.com/OWASP/crAPI/main/deploy/docker/docker-compose.yml>
+    $ sudo curl -o docker-compose.yml <https://raw.githubusercontent.com/OWASP/crAPI/main/deploy/docker/docker-compose.yml>
     ```
     
       
