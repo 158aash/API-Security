@@ -77,7 +77,7 @@ API security is critical in 2024 due to the growing complexity and scale of API 
     Create a new directory named 'lab' in your home folder to organize your project files.
     
     ```Shell
-    $mkdir ~/lab
+    $ mkdir ~/lab
     ```
     
       
